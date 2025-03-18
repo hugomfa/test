@@ -2,6 +2,7 @@
   "fluke": 
 [
   {
+    "id": "1",
     "AssetId": "1124071",
     "Name": "1124071",
     "SerialNumber": "1124071",
@@ -42,7 +43,8 @@
     }
   },
   {
-    "AssetId": "1124072",
+        "id": "2",
+"AssetId": "1124072",
     "Name": "1124072",
     "SerialNumber": "1124072",
     "PartNumber": "TOR-2003418-875",
